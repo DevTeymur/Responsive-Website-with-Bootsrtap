@@ -1,0 +1,6 @@
+{
+    "html.format.indentInnerHtml": true,
+    "html.format.contentUnformatted": "",
+    "files.associations":  { "*.html": "html" },
+
+}
